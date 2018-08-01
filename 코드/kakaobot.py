@@ -1,5 +1,3 @@
-adeegew
- #-*- coding: utf-8 -*-
 
 ---------------------------------
  #kakaobot.py  (상윤 ver)
