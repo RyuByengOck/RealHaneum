@@ -528,17 +528,10 @@ def Message():
             }
         }
 
-    elif u"교육과정" in content: #학과가 너무 많아서 if문을 많이 사용해야될것같아서 좀더 고민해볼게요
-        dataSend = {
-            "message": {
-                "text": content
-            }
-        }
-
     elif u"쿠티스" in content:
         dataSend = {
             "message": {
-                "text": "http://kutis.kyonggi.ac.kr/webkutis/index.jsp"
+                "text": "http://kutis.kyonggi.ac.kr/webkutis/"
             }
         }
 
